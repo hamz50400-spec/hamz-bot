@@ -1,5 +1,8 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+node_modules/
+auth_info/
+downloads/
+.env
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
