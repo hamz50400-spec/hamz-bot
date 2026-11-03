@@ -1,0 +1,27 @@
+{
+  "name": "hamz-bot",
+  "version": "6.0.0",
+  "description": "WhatsApp Bot by hamzz-speccer",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "@hapi/boom": "^10.0.1",
+    "@silent-tech-offc/ttdl": "^1.0.0",
+    "@whiskeysockets/baileys": "^6.7.18",
+    "dotenv": "^16.4.5",
+    "drive-mediafire-downloader": "^1.0.0",
+    "pino": "^9.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "snapsaver-downloader": "^1.0.3",
+    "wa-sticker-kit": "^1.0.6",
+    "youtube-dl-exec": "^3.1.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "hamzz-speccer",
+  "license": "MIT"
+}
